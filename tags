@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ActiveSupport	example1/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
+Application	example1/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Example1
+ApplicationController	example1/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	example1/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+CreateDepts	example1/db/migrate/20160513142601_create_depts.rb	/^class CreateDepts < ActiveRecord::Migration$/;"	c
+CreateUsers	example1/db/migrate/20160513142954_create_users.rb	/^class CreateUsers < ActiveRecord::Migration$/;"	c
+Dept	example1/app/models/dept.rb	/^class Dept < ActiveRecord::Base$/;"	c
+DeptTest	example1/test/models/dept_test.rb	/^class DeptTest < ActiveSupport::TestCase$/;"	c
+DeptsController	example1/app/controllers/depts_controller.rb	/^class DeptsController < ApplicationController$/;"	c
+DeptsControllerTest	example1/test/controllers/depts_controller_test.rb	/^class DeptsControllerTest < ActionController::TestCase$/;"	c
+DeptsHelper	example1/app/helpers/depts_helper.rb	/^module DeptsHelper$/;"	m
+Example1	example1/config/application.rb	/^module Example1$/;"	m
+TopController	example1/app/controllers/top_controller.rb	/^class TopController < ApplicationController$/;"	c
+TopControllerTest	example1/test/controllers/top_controller_test.rb	/^class TopControllerTest < ActionController::TestCase$/;"	c
+TopHelper	example1/app/helpers/top_helper.rb	/^module TopHelper$/;"	m
+User	example1/app/models/user.rb	/^class User < ActiveRecord::Base$/;"	c
+UserTest	example1/test/models/user_test.rb	/^class UserTest < ActiveSupport::TestCase$/;"	c
+UsersController	example1/app/controllers/users_controller.rb	/^class UsersController < ApplicationController$/;"	c
+UsersControllerTest	example1/test/controllers/users_controller_test.rb	/^class UsersControllerTest < ActionController::TestCase$/;"	c
+UsersHelper	example1/app/helpers/users_helper.rb	/^module UsersHelper$/;"	m
+change	example1/db/migrate/20160513142601_create_depts.rb	/^  def change$/;"	f	class:CreateDepts
+change	example1/db/migrate/20160513142954_create_users.rb	/^  def change$/;"	f	class:CreateUsers
+create	example1/app/controllers/depts_controller.rb	/^  def create$/;"	f	class:DeptsController
+create	example1/app/controllers/users_controller.rb	/^  def create$/;"	f	class:UsersController
+dept_params	example1/app/controllers/depts_controller.rb	/^    def dept_params$/;"	f	class:DeptsController
+destroy	example1/app/controllers/depts_controller.rb	/^  def destroy$/;"	f	class:DeptsController
+destroy	example1/app/controllers/users_controller.rb	/^  def destroy$/;"	f	class:UsersController
+edit	example1/app/controllers/depts_controller.rb	/^  def edit$/;"	f	class:DeptsController
+edit	example1/app/controllers/users_controller.rb	/^  def edit$/;"	f	class:UsersController
+index	example1/app/controllers/depts_controller.rb	/^  def index$/;"	f	class:DeptsController
+index	example1/app/controllers/top_controller.rb	/^  def index$/;"	f	class:TopController
+index	example1/app/controllers/users_controller.rb	/^  def index$/;"	f	class:UsersController
+new	example1/app/controllers/depts_controller.rb	/^  def new$/;"	f	class:DeptsController
+new	example1/app/controllers/users_controller.rb	/^  def new$/;"	f	class:UsersController
+set_dept	example1/app/controllers/depts_controller.rb	/^    def set_dept$/;"	f	class:DeptsController
+set_user	example1/app/controllers/users_controller.rb	/^    def set_user$/;"	f	class:UsersController
+show	example1/app/controllers/depts_controller.rb	/^  def show$/;"	f	class:DeptsController
+show	example1/app/controllers/users_controller.rb	/^  def show$/;"	f	class:UsersController
+update	example1/app/controllers/depts_controller.rb	/^  def update$/;"	f	class:DeptsController
+update	example1/app/controllers/users_controller.rb	/^  def update$/;"	f	class:UsersController
+user_params	example1/app/controllers/users_controller.rb	/^    def user_params$/;"	f	class:UsersController
